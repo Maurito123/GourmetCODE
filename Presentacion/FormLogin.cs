@@ -37,7 +37,7 @@ namespace proyecto.Presentacion
                 this.Hide();
 
                 // Mostrar el formulario del menú (FormMenu).
-                Menu formMenu = new Menu();
+                FormMenu formMenu = new FormMenu();
                 formMenu.ShowDialog();
 
                 // Cerrar la aplicación cuando se cierre el formulario del menú.

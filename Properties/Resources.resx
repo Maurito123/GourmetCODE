@@ -118,22 +118,64 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Quitar-usuario40x401" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quitar-usuario40x401.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3592830-compass-dipping-compass-direction-general-instrument-magnetic-compass-office_107748" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3592830-compass-dipping-compass-direction-general-instrument-magnetic-compass-office_107748.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3592835-general-hierachy-map-office-site-structure_107768" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3592835-general-hierachy-map-office-site-structure_107768.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="transporte" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\transporte;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1486564397-menu-green_81507" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1486564397-menu-green_81507.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3592854-add-user-business-man-employee-general-human-member-office_107767" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3592854-add-user-business-man-employee-general-human-member-office_107767.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Citycons_building_icon-icons.com_67935" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Citycons_building_icon-icons.com_67935.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quitar-usuario40x40" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quitar-usuario40x40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3592857-burger-general-ham-list-menu-menu-icon-office_107735" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3592857-burger-general-ham-list-menu-menu-icon-office_107735.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user_icon-icons.com_66546" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user_icon-icons.com_66546.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="agregar-usuario" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\agregar-usuario.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WhatsApp_Image_2023-07-20_at_7.59.57_PM-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WhatsApp_Image_2023-07-20_at_7.59.57_PM-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="abf6a7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\abf6a7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="3592830-compass-dipping-compass-direction-general-instrument-magnetic-compass-office_107748 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3592830-compass-dipping-compass-direction-general-instrument-magnetic-compass-office_107748 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="AGREGAR-BOTON" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\AGREGAR-BOTON.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="3592870-brochure-document-menu-note-office-page-papers_107750" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3592870-brochure-document-menu-note-office-page-papers_107750.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3592856-general-group-office-personal-relation-team-team-structure_107770" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3592856-general-group-office-personal-relation-team-team-structure_107770.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="WhatsApp Image 2023-07-20 at 7.59.57 PM" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WhatsApp Image 2023-07-20 at 7.59.57 PM.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Quitar-usuario40x40" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Quitar-usuario40x40.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="AGREGAR-BOTON" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AGREGAR-BOTON.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="abf6a7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\abf6a7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Citycons_location_icon-icons.com_67931" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Citycons_location_icon-icons.com_67931.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3592855-business-man-employee-general-human-member-office-tie_107745" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3592855-business-man-employee-general-human-member-office-tie_107745.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

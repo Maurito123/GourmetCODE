@@ -1,5 +1,4 @@
 ﻿using proyecto.Persistencia;
-using proyecto.Persistencia;
 
 namespace TuProyecto.Logica
 {

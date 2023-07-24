@@ -1,6 +1,6 @@
 ﻿namespace proyecto.Presentacion
 {
-    partial class FormBaja
+    partial class FormAltaCliente
     {
         /// <summary>
         /// Required designer variable.
@@ -28,35 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormBaja));
-            btnVolver = new Button();
+            label1 = new Label();
             SuspendLayout();
             // 
-            // btnVolver
+            // label1
             // 
-            btnVolver.Location = new Point(12, 415);
-            btnVolver.Name = "btnVolver";
-            btnVolver.Size = new Size(75, 23);
-            btnVolver.TabIndex = 0;
-            btnVolver.Text = "VOLVER";
-            btnVolver.UseVisualStyleBackColor = true;
-            btnVolver.Click += btnVolver_Click;
+            label1.AutoSize = true;
+            label1.Location = new Point(12, 9);
+            label1.Name = "label1";
+            label1.Size = new Size(56, 15);
+            label1.TabIndex = 0;
+            label1.Text = "NOMBRE";
             // 
-            // FormBaja
+            // FormAltaCliente
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(btnVolver);
-            Icon = (Icon)resources.GetObject("$this.Icon");
-            MaximizeBox = false;
-            Name = "FormBaja";
-            Text = "Baja";
+            BackColor = Color.DimGray;
+            ClientSize = new Size(816, 509);
+            Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.None;
+            Name = "FormAltaCliente";
+            Text = "FormAltaCliente";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private Button btnVolver;
+        private Label label1;
     }
 }

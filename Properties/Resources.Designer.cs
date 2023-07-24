@@ -63,6 +63,98 @@ namespace proyecto.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1486564397_menu_green_81507 {
+            get {
+                object obj = ResourceManager.GetObject("1486564397-menu-green_81507", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3592830_compass_dipping_compass_direction_general_instrument_magnetic_compass_office_107748 {
+            get {
+                object obj = ResourceManager.GetObject("3592830-compass-dipping-compass-direction-general-instrument-magnetic-compass-off" +
+                        "ice_107748", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3592830_compass_dipping_compass_direction_general_instrument_magnetic_compass_office_107748__1_ {
+            get {
+                object obj = ResourceManager.GetObject("3592830-compass-dipping-compass-direction-general-instrument-magnetic-compass-off" +
+                        "ice_107748 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3592835_general_hierachy_map_office_site_structure_107768 {
+            get {
+                object obj = ResourceManager.GetObject("3592835-general-hierachy-map-office-site-structure_107768", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3592854_add_user_business_man_employee_general_human_member_office_107767 {
+            get {
+                object obj = ResourceManager.GetObject("3592854-add-user-business-man-employee-general-human-member-office_107767", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3592855_business_man_employee_general_human_member_office_tie_107745 {
+            get {
+                object obj = ResourceManager.GetObject("3592855-business-man-employee-general-human-member-office-tie_107745", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3592856_general_group_office_personal_relation_team_team_structure_107770 {
+            get {
+                object obj = ResourceManager.GetObject("3592856-general-group-office-personal-relation-team-team-structure_107770", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3592857_burger_general_ham_list_menu_menu_icon_office_107735 {
+            get {
+                object obj = ResourceManager.GetObject("3592857-burger-general-ham-list-menu-menu-icon-office_107735", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3592870_brochure_document_menu_note_office_page_papers_107750 {
+            get {
+                object obj = ResourceManager.GetObject("3592870-brochure-document-menu-note-office-page-papers_107750", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap abf6a7 {
             get {
                 object obj = ResourceManager.GetObject("abf6a7", resourceCulture);
@@ -93,9 +185,59 @@ namespace proyecto.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Citycons_building_icon_icons_com_67935 {
+            get {
+                object obj = ResourceManager.GetObject("Citycons_building_icon-icons.com_67935", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Citycons_location_icon_icons_com_67931 {
+            get {
+                object obj = ResourceManager.GetObject("Citycons_location_icon-icons.com_67931", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Quitar_usuario40x40 {
             get {
                 object obj = ResourceManager.GetObject("Quitar-usuario40x40", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Quitar_usuario40x401 {
+            get {
+                object obj = ResourceManager.GetObject("Quitar-usuario40x401", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap transporte {
+            get {
+                object obj = ResourceManager.GetObject("transporte", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user_icon_icons_com_66546 {
+            get {
+                object obj = ResourceManager.GetObject("user_icon-icons.com_66546", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

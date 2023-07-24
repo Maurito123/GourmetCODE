@@ -10,18 +10,11 @@ using System.Windows.Forms;
 
 namespace proyecto.Presentacion
 {
-    public partial class FormAlta : Form
+    public partial class FormAltaCliente : Form
     {
-        public FormAlta()
+        public FormAltaCliente()
         {
             InitializeComponent();
-            this.FormBorderStyle = FormBorderStyle.FixedDialog;
-            this.MaximizeBox = false;
-        }
-
-        private void btnVolver_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }

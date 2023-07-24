@@ -4,9 +4,7 @@ C:\Users\maurito\source\repos\interfaz\interfaz\bin\Release\net6.0-windows\proye
 C:\Users\maurito\source\repos\interfaz\interfaz\bin\Release\net6.0-windows\proyecto.dll
 C:\Users\maurito\source\repos\interfaz\interfaz\bin\Release\net6.0-windows\proyecto.pdb
 C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.csproj.AssemblyReference.cache
-C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.Presentacion.FormAlta.resources
 C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.Presentacion.FormLogin.resources
-C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.Presentacion.Menu.resources
 C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.Properties.Resources.resources
 C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.csproj.GenerateResource.cache
 C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.GeneratedMSBuildEditorConfig.editorconfig
@@ -18,4 +16,5 @@ C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\refin
 C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.pdb
 C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.genruntimeconfig.cache
 C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\ref\proyecto.dll
-C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.Presentacion.FormBaja.resources
+C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.Presentacion.FormMenu.resources
+C:\Users\maurito\source\repos\interfaz\interfaz\obj\Release\net6.0-windows\proyecto.Presentacion.FormAltaCliente.resources
