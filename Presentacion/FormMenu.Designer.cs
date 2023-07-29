@@ -268,7 +268,7 @@
             // 
             // sidebarTime
             // 
-            sidebarTime.Interval = 1;
+            sidebarTime.Interval = 10;
             sidebarTime.Tick += sidebarTime_Tick;
             // 
             // panel11

@@ -29,16 +29,26 @@
         private void InitializeComponent()
         {
             label1 = new Label();
+            textBox1 = new TextBox();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
+            label1.BackColor = Color.Transparent;
+            label1.ForeColor = Color.White;
             label1.Location = new Point(12, 9);
             label1.Name = "label1";
             label1.Size = new Size(56, 15);
             label1.TabIndex = 0;
             label1.Text = "NOMBRE";
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(74, 6);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(100, 23);
+            textBox1.TabIndex = 1;
             // 
             // FormAltaCliente
             // 
@@ -46,6 +56,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.DimGray;
             ClientSize = new Size(816, 509);
+            Controls.Add(textBox1);
             Controls.Add(label1);
             FormBorderStyle = FormBorderStyle.None;
             Name = "FormAltaCliente";
@@ -57,5 +68,6 @@
         #endregion
 
         private Label label1;
+        private TextBox textBox1;
     }
 }
